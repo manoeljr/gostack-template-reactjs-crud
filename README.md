@@ -1,3 +1,3 @@
 ## Mockups de interface
 
-![Twitter](https://github.com/manoeljr/layout-twitter/blob/main/twitter.png)
+![GoRestaurant](https://github.com/manoeljr/gostack-template-reactjs-crud/blob/master/reactjs-crud-desafio-gostack.png)
